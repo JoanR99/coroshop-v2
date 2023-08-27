@@ -8,7 +8,7 @@
 		"build": "turbo build"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "romerojoan@gmail.com",
 	"license": "MIT",
 	"devDependencies": {
 		"eslint": "^8.45.0",
